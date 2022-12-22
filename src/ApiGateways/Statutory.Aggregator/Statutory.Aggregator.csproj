@@ -5,6 +5,7 @@
     <DockerComposeProjectPath>..\..\docker-compose.dcproj</DockerComposeProjectPath>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <DockerfileContext>..\..</DockerfileContext>
+    <RootNamespace>Shopping.Aggregator</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
