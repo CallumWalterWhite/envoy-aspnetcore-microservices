@@ -1,7 +1,5 @@
 # envoy-aspnetcore-microservices WIP
 
-# envoy-aspnetcore-microservices WIP
-
 ## Whats Including In This Repository
 We have implemented below **features over the run-aspnetcore-microservices repository**.
 
